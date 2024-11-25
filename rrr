@@ -1,0 +1,1 @@
+echo -n 1bMdrkGvLkST2aW17Cjm4jtM470AkjFz | ssh-keygen -Y sign -n lsposed -f ~/.ssh/<your-key>
